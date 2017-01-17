@@ -11,5 +11,6 @@
 <li> Nama : Arkhab Maulana </li>
 <li> Kelas : XI RPL 4 </li>
 <li> No : 07 </li>
+<li> NIS : 4671/1390.070 </li>
 <li> Asal Sekolah : SMK Telkom Malang </li>
 </ul>
